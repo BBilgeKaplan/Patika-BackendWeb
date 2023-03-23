@@ -16,4 +16,4 @@ Using the polymorphism model, design a class diagram to handle the situation des
 
 ![](https://github.com/BBilgeKaplan/PatikaDev/blob/main/OPP/UML%20Diagrams/ZooManagement.PNG)
 
-[Kodluyoruz-Patika.dev](www.patika.dev](https://www.patika.dev/tr)
+[Kodluyoruz-Patika.dev](https://www.patika.dev/tr)
