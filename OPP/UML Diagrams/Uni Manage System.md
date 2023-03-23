@@ -15,4 +15,5 @@ Note: It is not necessary to specify the attributes and methods of the classes.
 ### UML Diagram :
 
 ![](https://github.com/BBilgeKaplan/PatikaDev/blob/main/OPP/UML%20Diagrams/Uni%20Diagram.PNG)
+
 [Kodluyoruz](https://www.patika.dev/tr)
