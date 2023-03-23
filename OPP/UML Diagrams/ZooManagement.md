@@ -15,3 +15,5 @@ Animals:
 Using the polymorphism model, design a class diagram to handle the situation described above.
 
 ![](https://github.com/BBilgeKaplan/PatikaDev/blob/main/OPP/UML%20Diagrams/ZooManagement.PNG)
+
+[Kodluyoruz](www.patika.dev)
