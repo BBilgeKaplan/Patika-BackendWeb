@@ -13,4 +13,4 @@ Design a system for the management of flights and pilots.
 Draw the Class diagram describing this system.
 ![](https://github.com/BBilgeKaplan/PatikaDev/blob/main/OPP/UML%20Diagrams/FlightManage.PNG)
 
-[Kodluyoruz](https://app.patika.dev/)
+[Kodluyoruz](https://www.patika.dev/tr)
