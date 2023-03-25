@@ -4,7 +4,7 @@
 - A person calls an elevator by pressing the appropriate call button (up or down). A scheduler assigns one of five elevators to go to the floor where the search started. Upon entering the elevator, a passenger typically presses one or more destination buttons. As the elevator moves from floor to floor, an indicator light inside the elevator informs passengers about the location of the elevator. The arrival of an elevator to a floor is indicated by the lighting of the indicator lamp above the outer elevator door and the ringing of the floor bell. When an elevator stops on a floor, both sets of doors open automatically for a predetermined time, allowing passengers to enter and exit the elevator.
 - The simulator uses a "clock" to simulate real time lapse and timestamp and log events that occur in the simulation. A random number generator is used by the simulator to generate passengers and determine the departure and arrival floors for each passenger.
 
-UML Diagram :
+## UML Diagram :
 
 ---
 ![](https://github.com/BBilgeKaplan/PatikaDev/blob/main/OPP/UML%20Diagrams/ElevatorManage.PNG)
