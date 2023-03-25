@@ -5,6 +5,4 @@
 - The simulator uses a "clock" to simulate real time lapse and timestamp and log events that occur in the simulation. A random number generator is used by the simulator to generate passengers and determine the departure and arrival floors for each passenger.
 
 ## UML Diagram :
-
----
 ![](https://github.com/BBilgeKaplan/PatikaDev/blob/main/OPP/UML%20Diagrams/ElevatorManage.PNG)
