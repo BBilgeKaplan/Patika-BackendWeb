@@ -6,7 +6,7 @@ public class KDVcalculate {
        
         Scanner input= new Scanner(System.in);
         
-        System.out.print("ücret tutarını giriniz:");
+        System.out.print("Enter the amount: ");
         money = input.nextDouble();
 
         KDVrate= (money>=0) && (money<=1000) ? 0.18 : 0.8 ;  
