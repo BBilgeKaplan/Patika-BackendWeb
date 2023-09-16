@@ -21,7 +21,9 @@ public class RepetitiveEvenNum {
             for (int j = 0 ; j < list.length ; j++){
                 if ((i!=j) && (list[i]==list[j])){
                     if(!isFind(duplicate, list[i])){
-                        duplicate[startIndex++]= list[i];
+                       if(list[i]%2==0){
+                            duplicate[startIndex++]= list[i];
+                        }
                     }
                    break;
                 }
