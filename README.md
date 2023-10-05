@@ -1,4 +1,4 @@
-# [PatikaDev][https://academy.patika.dev/tr]
+# [PatikaDev](https://academy.patika.dev/tr)
 Bu repository Başlangıç Seviye Java ile Backend Web Development Patikası kapsamında bulunan derslerin çalışmalarını içermektedir.
 
 ### Başlangıç Seviye Java ile Backend Web Development Patikası
