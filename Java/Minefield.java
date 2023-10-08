@@ -44,8 +44,11 @@ class MineSwepper{
         }
     }
 
+    // In this scope, comment lines print the mine map on the screen. 
+    // Therefore, if you want to see the mine map, you should remove the codes from the comment line.
+    
     public void printMineMap() {
-      //  System.out.println("Mayinlarin Konumu");
+      //  System.out.println("Location of Mines");
         randomNumber();
         for (int i = 0; i < this.row; i++) {
             for (int j = 0; j < this.col; j++) {
@@ -57,7 +60,7 @@ class MineSwepper{
            // System.out.println();
         }
        // System.out.println("==================================");
-       // System.out.println("Mayin Tarlasi Oyununa Hosgeliniz !");
+       // System.out.println("Welcome to Minesweeper Game!");
     }
 
     public void printGameMap(){
